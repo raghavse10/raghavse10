@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="ufw" />
+            <item index="1" class="java.lang.String" itemvalue="pycups" />
+            <item index="2" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="3" class="java.lang.String" itemvalue="pycairo" />
+            <item index="4" class="java.lang.String" itemvalue="python-apt" />
+            <item index="5" class="java.lang.String" itemvalue="PyGObject" />
+            <item index="6" class="java.lang.String" itemvalue="PyICU" />
+            <item index="7" class="java.lang.String" itemvalue="ubuntu-advantage-tools" />
+            <item index="8" class="java.lang.String" itemvalue="python-debian" />
+            <item index="9" class="java.lang.String" itemvalue="systemd-python" />
+            <item index="10" class="java.lang.String" itemvalue="PyNaCl" />
+            <item index="11" class="java.lang.String" itemvalue="zope.hookable" />
+            <item index="12" class="java.lang.String" itemvalue="sos" />
+            <item index="13" class="java.lang.String" itemvalue="unattended-upgrades" />
+            <item index="14" class="java.lang.String" itemvalue="Twisted" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.__await__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
